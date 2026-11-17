@@ -1,0 +1,5 @@
+# hasta verisi asla depoya girmez (PhysioNet veri kullanim sozlesmesi)
+*.parquet
+*.csv
+*.log
+__pycache__/
